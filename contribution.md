@@ -1,4 +1,4 @@
-# My Work
+# Project Contribution
 
 My primary focus in this project was the contextual retrieval pipeline and its integration into the application workflow.
 
